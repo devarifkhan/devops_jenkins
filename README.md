@@ -1,6 +1,6 @@
 # Jenkins
 
-![Jenkins Logo](https://www.jenkins.io/images/logos/jenkins/jenkins.svg)
+![Jenkins Official Logo](https://www.jenkins.io/images/logos/jenkins/jenkins.svg)
 
 ## COURES Overview
 
